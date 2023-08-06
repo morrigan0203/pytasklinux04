@@ -1,0 +1,31 @@
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform sshd[60712]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 568 of user user2.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 568 at /org/freedesktop/login1/session/_3568
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 568 of User user2.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform sshd[60712]: pam_unix(sshd:session): session closed for user user2
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd[1]: session-568.scope: Deactivated successfully.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd-logind[668]: Session 568 logged out. Waiting for processes to exit.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd-logind[668]: Removed session 568.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform sshd[60755]: Accepted password for user2 from 127.0.0.1 port 48774 ssh2
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform sshd[60755]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 569 of user user2.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 569 at /org/freedesktop/login1/session/_3569
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 569 of User user2.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform sshd[60755]: pam_unix(sshd:session): session closed for user user2
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd[1]: session-569.scope: Deactivated successfully.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd-logind[668]: Session 569 logged out. Waiting for processes to exit.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd-logind[668]: Removed session 569.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform sshd[60799]: Accepted password for user2 from 127.0.0.1 port 48786 ssh2
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform sshd[60799]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 570 of user user2.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 570 at /org/freedesktop/login1/session/_3570
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 570 of User user2.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform sshd[60799]: pam_unix(sshd:session): session closed for user user2
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd[1]: session-570.scope: Deactivated successfully.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd-logind[668]: Session 570 logged out. Waiting for processes to exit.
+Aug 06 02:04:15 parallels-Parallels-Virtual-Platform systemd-logind[668]: Removed session 570.
+Aug 06 02:04:16 parallels-Parallels-Virtual-Platform sshd[60840]: Accepted password for user2 from 127.0.0.1 port 48800 ssh2
+Aug 06 02:04:16 parallels-Parallels-Virtual-Platform sshd[60840]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:04:16 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 571 of user user2.
+Aug 06 02:04:16 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 571 at /org/freedesktop/login1/session/_3571
+Aug 06 02:04:16 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 571 of User user2.

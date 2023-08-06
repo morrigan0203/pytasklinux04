@@ -1,0 +1,36 @@
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58723]: pam_unix(sshd:session): session closed for user user2
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd[1]: session-521.scope: Deactivated successfully.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: Session 521 logged out. Waiting for processes to exit.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: Removed session 521.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58767]: Accepted password for user2 from 127.0.0.1 port 45838 ssh2
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58767]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 522 of user user2.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 522 at /org/freedesktop/login1/session/_3522
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 522 of User user2.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58767]: pam_unix(sshd:session): session closed for user user2
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd[1]: session-522.scope: Deactivated successfully.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: Session 522 logged out. Waiting for processes to exit.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: Removed session 522.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58808]: Accepted password for user2 from 127.0.0.1 port 45842 ssh2
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58808]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 523 of user user2.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 523 at /org/freedesktop/login1/session/_3523
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 523 of User user2.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58808]: pam_unix(sshd:session): session closed for user user2
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd[1]: session-523.scope: Deactivated successfully.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: Session 523 logged out. Waiting for processes to exit.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: Removed session 523.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58849]: Accepted password for user2 from 127.0.0.1 port 45858 ssh2
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58849]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 524 of user user2.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 524 at /org/freedesktop/login1/session/_3524
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 524 of User user2.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58849]: pam_unix(sshd:session): session closed for user user2
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd[1]: session-524.scope: Deactivated successfully.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: Session 524 logged out. Waiting for processes to exit.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: Removed session 524.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58892]: Accepted password for user2 from 127.0.0.1 port 45870 ssh2
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform sshd[58892]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 525 of user user2.
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 525 at /org/freedesktop/login1/session/_3525
+Aug 06 02:04:02 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 525 of User user2.

@@ -1,0 +1,34 @@
+Aug 06 02:03:35 parallels-Parallels-Virtual-Platform jetbrains-pycharm-ce.desktop[4386]: 2023-08-06 02:03:34,982 [9629788] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 9 >= 9
+Aug 06 02:03:35 parallels-Parallels-Virtual-Platform sshd[54978]: Accepted password for user2 from 127.0.0.1 port 49424 ssh2
+Aug 06 02:03:35 parallels-Parallels-Virtual-Platform sshd[54978]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:03:35 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 434 of user user2.
+Aug 06 02:03:35 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 434 of User user2.
+Aug 06 02:03:35 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 434 at /org/freedesktop/login1/session/_3434
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform sshd[54978]: pam_unix(sshd:session): session closed for user user2
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform systemd[1]: session-434.scope: Deactivated successfully.
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform systemd-logind[668]: Session 434 logged out. Waiting for processes to exit.
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform systemd-logind[668]: Removed session 434.
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform sshd[55063]: Accepted password for user2 from 127.0.0.1 port 49428 ssh2
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform sshd[55063]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 435 of user user2.
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 435 at /org/freedesktop/login1/session/_3435
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 435 of User user2.
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform dbus-daemon[31715]: [session uid=1001 pid=31715] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Extract' unit='tracker-extract-3.service' requested by ':1.7' (uid=1001 pid=31750 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform systemd[31666]: Starting Tracker metadata extractor...
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform sudo[55107]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -i /home/user2/p7zip-full.deb
+Aug 06 02:03:36 parallels-Parallels-Virtual-Platform sudo[55107]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform dbus-daemon[31715]: [session uid=1001 pid=31715] Successfully activated service 'org.freedesktop.Tracker3.Miner.Extract'
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform systemd[31666]: Started Tracker metadata extractor.
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform sudo[55107]: pam_unix(sudo:session): session closed for user root
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform sshd[55063]: pam_unix(sshd:session): session closed for user user2
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform systemd[1]: session-435.scope: Deactivated successfully.
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform systemd-logind[668]: Session 435 logged out. Waiting for processes to exit.
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform systemd-logind[668]: Removed session 435.
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform sshd[55144]: Accepted password for user2 from 127.0.0.1 port 49430 ssh2
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform sshd[55144]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform systemd-logind[668]: New session 436 of user user2.
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform snapd-desktop-i[31865]: Detected new session 436 at /org/freedesktop/login1/session/_3436
+Aug 06 02:03:37 parallels-Parallels-Virtual-Platform systemd[1]: Started Session 436 of User user2.
+Aug 06 02:03:38 parallels-Parallels-Virtual-Platform sudo[55185]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+Aug 06 02:03:38 parallels-Parallels-Virtual-Platform sudo[55185]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Aug 06 02:03:38 parallels-Parallels-Virtual-Platform sudo[55185]: pam_unix(sudo:session): session closed for user root

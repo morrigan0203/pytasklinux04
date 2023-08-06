@@ -1,0 +1,10 @@
+HOST: 0.0.0.0
+USER: user2
+PASSWD: user2
+USER_FOLDER: /home/user2/
+TST_FOLDER: /home/user2/tst
+OUT_FOLDER: /home/user2/out
+FOLDER_FOLDER: /home/user2/folder1
+COUNT: 10
+FILE_SIZE: 1M
+ARC_TYPE: zip
